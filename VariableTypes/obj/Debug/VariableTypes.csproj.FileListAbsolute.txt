@@ -1,0 +1,6 @@
+/Users/walterbrunopradovieira/repos/variableTypes/VariableTypes/obj/Debug/VariableTypes.csprojAssemblyReference.cache
+/Users/walterbrunopradovieira/repos/variableTypes/VariableTypes/obj/Debug/VariableTypes.csproj.CoreCompileInputs.cache
+/Users/walterbrunopradovieira/repos/variableTypes/VariableTypes/bin/Debug/VariableTypes.exe
+/Users/walterbrunopradovieira/repos/variableTypes/VariableTypes/bin/Debug/VariableTypes.pdb
+/Users/walterbrunopradovieira/repos/variableTypes/VariableTypes/obj/Debug/VariableTypes.exe
+/Users/walterbrunopradovieira/repos/variableTypes/VariableTypes/obj/Debug/VariableTypes.pdb
