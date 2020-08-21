@@ -13,7 +13,7 @@ namespace VariableTypes
             double toys = 12;
             decimal weigth = 70m;
 
-                Console.WriteLine($"My dog name's is {nameDog}, he is {dogAge} old, the first letter'name is {firstLetter}. If you ask me he loves to play it is so {likePlay}. He has {toys} to play all day long and keep his {weigth} pounds");
+                Console.WriteLine($"My dog name's is {nameDog}, he is {dogAge} year old, the first letter'name is {firstLetter}. If you ask me he loves to play it is so {likePlay}. He has {toys} to play all day long and keep his {weigth} pounds");
         }
     }
 }
